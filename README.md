@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Just crazy about technologies!**
 
-[![An image of @prem192002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prem192002)](https://holopin.io/@prem192002)
+https://holopin.io/@prem192002
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
