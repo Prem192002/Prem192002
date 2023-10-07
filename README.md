@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prem Singh</h1>
 <h3 align="center">A passionate Android developer</h3>
-[![@prem192002's Holopin board](https://holopin.io/api/user/board?user=prem192002)](https://holopin.io/@prem192002)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem192002&label=Profile%20views&color=0e75b6&style=flat" alt="prem192002" /> </p>
+
+[![@prem192002's Holopin board](https://holopin.io/api/user/board?user=prem192002)](https://holopin.io/@prem192002)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prem192002" alt="prem192002" /></a> </p>
 
