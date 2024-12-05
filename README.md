@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **premsingh192002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L3j1RX4xg_2MW4gk0atEqQ0Bv7_eU7MG/view?usp=drive_link](https://drive.google.com/file/d/1L3j1RX4xg_2MW4gk0atEqQ0Bv7_eU7MG/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L3j1RX4xg_2MW4gk0atEqQ0Bv7_eU7MG/view?usp=drive_link](https://drive.google.com/file/d/1J6P-ayVCBRE0Fl4v76H4ZpRztiFf8CFW/view?usp=drive_link)
 
 - ⚡ Fun fact **Just crazy about technologies!**
 
